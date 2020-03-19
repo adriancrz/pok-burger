@@ -1,2 +1,2 @@
-# pok-burger
+# poke-burger
 PokéBurger Logger with MySQL
