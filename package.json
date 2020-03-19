@@ -1,0 +1,32 @@
+{
+  "name": "poke-burger",
+  "version": "1.0.0",
+  "description": "poke-burger webapp with mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriancrz/poke-burger.git"
+  },
+  "keywords": [
+    "mysql",
+    "poke",
+    "burger"
+  ],
+  "author": "adrián cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriancrz/poke-burger/issues"
+  },
+  "homepage": "https://github.com/adriancrz/poke-burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
+}
